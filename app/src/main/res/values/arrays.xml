@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="shequ_bar_labels">
+        <item>榜单</item>
+        <item>水晶</item>
+        <item>问答</item>
+        <item>话题</item>
+        <item>达人</item>
+    </array>
+
+    <array name="shequ_bar_icon">
+        <item>@mipmap/bangdan</item>
+        <item>@mipmap/shuijing</item>
+        <item>@mipmap/wenda</item>
+        <item>@mipmap/huati</item>
+        <item>@mipmap/daren</item>
+    </array>
+
+    <array name="info_bar1_labels">
+        <item>购物车</item>
+        <item>券包</item>
+        <item>账户</item>
+        <item>优惠券</item>
+        <item>服务会员卡</item>
+        <item>红包</item>
+        <item>兑换</item>
+        <item>消息</item>
+    </array>
+
+    <array name="info_bar1_icon">
+        <item>@mipmap/gouwu</item>
+        <item>@mipmap/quanbao</item>
+        <item>@mipmap/zhanghu</item>
+        <item>@mipmap/youhuiquan</item>
+        <item>@mipmap/huiyuanka</item>
+        <item>@mipmap/hongbao</item>
+        <item>@mipmap/duihuan</item>
+        <item>@mipmap/xiaoxi</item>
+    </array>
+
+    <array name="info_bar2_labels">
+        <item>待付款</item>
+        <item>待收货</item>
+        <item>待评价</item>
+        <item>退货/款</item>
+    </array>
+
+    <array name="info_bar2_icon">
+        <item>@mipmap/daifukuan</item>
+        <item>@mipmap/daishouhuo</item>
+        <item>@mipmap/daipingjia</item>
+        <item>@mipmap/tuihuokuan</item>
+    </array>
+
+    <array name="info_bar3_labels">
+        <item>待付款</item>
+        <item>待使用</item>
+        <item>待评价</item>
+        <item>已完成</item>
+    </array>
+
+    <array name="info_bar3_icon">
+        <item>@mipmap/daifukuan</item>
+        <item>@mipmap/daishiyong</item>
+        <item>@mipmap/daipingjia</item>
+        <item>@mipmap/yiwancheng</item>
+    </array>
+
+</resources>

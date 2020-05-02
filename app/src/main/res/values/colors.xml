@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="title_bar_search_color">#ffe55c26</color>
+    <color name="home_title_bar_color">#ffff6f36</color>
+
+    <color name="tab_selected">#fb773b</color>
+    <color name="tab_normal">#c5c9d0</color>
+
+    <color name="bg_common_gray">#ffe2e2e2</color>
+    <color name="white">#ffffffff</color>
+
+    <!-- GoodsListItem 首页最下面的listView -->
+    <color name="title_color">#ffff621d</color>
+    <color name="value_color">#ffa2a2a2</color>
+    <color name="app_white">#fff1f1f2</color>
+    <color name="good_price_color">#ffff6e21</color>
+    <color name="around_bg_color">#f0f0f0</color>
+    <color name="around_fl_bg">#5555</color>
+    <color name="around_list_title_color">#39ac69</color>
+    <color name="around_list_divider_color">#f0f0f0</color>
+    <color name="around_supplier_title_color">#5a5959</color>
+    <color name="popwin_bg_color">#5000</color>
+    <color name="around_view_bg_color">#e2e2e2</color>
+    <color name="around_supplier_title_selected_color">#39ac69</color>
+    <color name="detail_merchant_info_color">#ff3c3c3c</color>
+    <color name="blue">#1976D2</color>
+    <color name="orange">#ffff6e21</color>
+    <color name="tabsScrollColor">#f0f0f0</color>
+    <color name="button_text">#424F64</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+
+</resources>
